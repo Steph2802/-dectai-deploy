@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+flask
+flask-cors
+better-profanity
+gunicorn
